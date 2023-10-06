@@ -4,10 +4,10 @@ Assignment 3 is all about creating this natural language query system.  In order
 
 ## Reflection Questions
 1. In your own words describe the `search_pa_list` function.
-
+"search_pa_list" takes user input and then utilizes the match tool to find a pattern. If a pattern is found, it checks to see if it correlates with one of the actions. The action will then return a list to answer the user's query.
 
 2. What movie did you add to the `movies.py` file?  What year was it made? Any specific reason you added that movie?
-
+I added high school musical to the movies.py file. It was made in 2006 and I really love the music and choreography.
 
 3. What pattern / action did you add to the paList data structure?  Why do you think that is a useful pattern / action?
 

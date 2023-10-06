@@ -434,5 +434,6 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "delroy lindo",
             "spike lee",
         ],
-    )
+    ), 
+    ("high school musical", "kenny ortega", 2006, ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Lucas Grabeel"])
 ]
